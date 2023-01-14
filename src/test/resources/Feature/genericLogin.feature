@@ -8,5 +8,5 @@ Feature: To test login functionality in given page
     Then User should navigate to next page
 
     Examples: 
-      | email                    | password |
-      | vezitadocter@yopmail.com | 12345678 |
+      | email                 | password |
+      | testlogin@yopmail.com | 12345678 |
